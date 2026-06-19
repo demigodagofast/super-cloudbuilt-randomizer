@@ -1,0 +1,166 @@
+[
+  {
+    "name": "Air Jump",
+    "count": 1,
+    "category": [
+      "Equipment"
+    ],
+    "progression": true
+  },
+  {
+    "name": "Wallrun",
+    "count": 1,
+    "category": [
+      "Equipment"
+    ],
+    "progression": true
+  },
+  {
+    "name": "Dash",
+    "count": 1,
+    "category": [
+      "Equipment"
+    ],
+    "progression": true
+  },
+  {
+    "name": "Supercharge Upgrade",
+    "count": 1,
+    "category": [
+      "Equipment",
+      "Supercharge"
+    ],
+    "progression": true
+  },
+  {
+    "name": "Yellow SCB Gun",
+    "count": 1,
+    "category": [
+      "Equipment"
+    ],
+    "progression": true
+  },
+  {
+    "name": "Green SCB Gun",
+    "count": 1,
+    "category": [
+      "Equipment"
+    ],
+    "progression": true
+  },
+  {
+    "name": "Grenades",
+    "count": 1,
+    "category": [
+      "Equipment"
+    ],
+    "progression": true
+  },
+  {
+    "name": "Yellow Classic Gun",
+    "count": 1,
+    "category": [
+      "Equipment",
+      "Classic Gun"
+    ],
+    "progression": true
+  },
+  {
+    "name": "Green Classic Gun",
+    "count": 1,
+    "category": [
+      "Equipment",
+      "Classic Gun"
+    ],
+    "progression": true
+  },
+  {
+    "name": "Blue Classic Gun",
+    "count": 1,
+    "category": [
+      "Equipment",
+      "Classic Gun"
+    ],
+    "progression": true
+  },
+  {
+    "name": "Fog Core",
+    "count": 1,
+    "category": [
+      "Equipment"
+    ],
+    "filler": true
+  },
+  {
+    "name": "Red Key",
+    "count": 1,
+    "category": [
+      "Keys"
+    ],
+    "progression": true
+  },
+  {
+    "name": "Green Key",
+    "count": 1,
+    "category": [
+      "Keys"
+    ],
+    "progression": true
+  },
+  {
+    "name": "Violet Key",
+    "count": 1,
+    "category": [
+      "Keys"
+    ],
+    "progression": true
+  },
+  {
+    "name": "Magenta Key",
+    "count": 1,
+    "category": [
+      "Keys"
+    ],
+    "progression": true
+  },
+  {
+    "name": "Complete a Fragile Challenge",
+    "count": 1,
+    "category": [
+      "Traps"
+    ],
+    "trap": true
+  },
+  {
+    "name": "Complete a Pacifist Challenge",
+    "count": 1,
+    "category": [
+      "Traps"
+    ],
+    "trap": true
+  },
+  {
+    "name": "Complete a Beacons Challenge",
+    "count": 1,
+    "category": [
+      "Traps"
+    ],
+    "trap": true
+  },
+  {
+    "name": "Complete a Pathfinder Challenge with a C Rank or Better",
+    "count": 1,
+    "category": [
+      "Traps"
+    ],
+    "trap": true
+  },
+  {
+    "name": "Listen to a Demi Monologue",
+    "count": 1,
+    "category": [
+      "Traps"
+    ],
+    "trap": true
+  }
+]

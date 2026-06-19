@@ -1,0 +1,85 @@
+{
+  "The Storm and The Beyond": {
+    "yaml_option": [
+      "enable_storm_beyond"
+    ],
+    "hidden": true
+  },
+  "The Night": {
+    "yaml_option": [
+      "enable_the_night"
+    ],
+    "hidden": true
+  },
+  "Kalifen Levels": {
+    "yaml_option": [
+      "enable_kalifen_levels"
+    ],
+    "hidden": true
+  },
+  "Remix Levels": {
+    "yaml_option": [
+      "enable_remix_levels"
+    ],
+    "hidden": true
+  },
+  "Day Branch": {
+
+  },
+  "Night Branch": {
+
+  },
+  "Storm Branch": {
+
+  },
+  "Dawn Branch": {
+
+  },
+  "Fog Branch": {
+
+  },
+  "Walk in the Park": {
+
+  },
+  "Defiance": {
+
+  },
+  "Equipment": {
+
+  },
+  "Hub World": {
+
+  },
+  "Fog Core": {
+
+  },
+  "Ranked Mode": {
+
+  },
+  "Easter Eggs": {
+    "yaml_option": [
+      "enable_easter_egg_checks"
+    ],
+    "hidden": true
+  },
+  "Supercharge": {
+    "yaml_option": [
+      "enable_unlockable_supercharge_upgrade"
+    ],
+    "hidden": true
+  },
+  "Classic Gun": {
+    "yaml_option": [
+      "enable_unlockable_classic_gun"
+    ],
+    "hidden": true
+  },
+  "Keys": {
+
+  },
+  "Traps": {
+    "yaml_option": [
+      "enable_traps"
+    ]
+  }
+}

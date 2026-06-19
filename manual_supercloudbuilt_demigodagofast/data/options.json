@@ -1,0 +1,98 @@
+{
+    "$schema": "https://raw.githubusercontent.com/ManualForArchipelago/Manual/main/schemas/Manual.options.schema.json",
+    "core": {
+        "goal":{
+            "display_name": "The End Objective",
+            "description": "Collect 4 keys to unlock and complete Chains",
+            "hidden": false
+        },
+        "death_link": {
+            "default": false
+        }
+    },
+    "user": {
+      "enable_storm_beyond": {
+        "type": "Toggle",
+        "display_name": "Enable The Storm and The Beyond",
+        "description": [
+          "Turn this on if you want the Fog Core levels 'The Storm' and 'The Beyond' to appear as locations.",
+          "These can be accessed from a door below the red energy wall room in the level 'Questions'."
+        ],
+        "default": true
+      },
+      "enable_the_night": {
+        "type": "Toggle",
+        "display_name": "Enable The Night",
+        "description": [
+          "Turn this on if you want the Fog Core level 'The Night' to appear as a location.",
+          "This can be accessed from a door below the red energy wall room in the level 'Questions'."
+        ],
+        "default": false
+      },
+      "enable_kalifen_levels": {
+        "type": "Toggle",
+        "display_name": "Enable Kalifen Levels",
+        "description": [
+          "Turn this on if you want Kalifen's levels to be locations.",
+          "These are 'My Fall', 'The Way Around', and 'Pulse Core'.",
+          "They must be accessed from Ranked Mode.",
+          "Disable this setting if you do not have these levels unlocked."
+        ],
+        "default": true
+      },
+      "enable_remix_levels": {
+        "type": "Toggle",
+        "display_name": "Enable Remix Levels",
+        "description": [
+          "Turn this on if you want Remix levels to be locations.",
+          "These are 'Remix I', 'Remix II', and 'Remix III'.",
+          "They must be accessed from Ranked Mode.",
+          "Disable this setting if you do not have these levels unlocked."
+        ],
+        "default": true
+      },
+      "enable_easter_egg_checks": {
+        "type": "Toggle",
+        "display_name": "Enable Easter Egg Checks",
+        "description": [
+          "Easter egg checks include:",
+          "- The flower pots in the Dawn, Day, and Night branches.",
+          "- The sandcastle in 'Regrowth'.",
+          "- The picnic table in 'Stability'.",
+          "- 'Welcome to Rome' in 'The Call'.",
+          "- 'Vertigo' in 'Escape'."
+        ],
+        "default": true
+      },
+      "enable_unlockable_supercharge_upgrade": {
+        "type": "Toggle",
+        "display_name": "Enable Unlockable Supercharge Upgrade",
+        "description": [
+          "If turned on, Supercharge Mode is unlockable.",
+          "Must access it from Ranked Mode menu",
+          "NOTE: Some randomizer logic with supercharge can be hard (e.g. Defiance levels without a gun). Disable if you don't want this."
+        ],
+        "default": true
+      },
+      "enable_unlockable_classic_gun": {
+        "type": "Toggle",
+        "display_name": "Enable Unlockable Classic Gun",
+        "description": [
+          "If turned on, the Yellow, Green, and Blue Classic Guns are unlockable.",
+          "Enable the Classic Gun by pressing 2 on your keyboard to open the items menu, then equipping it.",
+          "Disable this setting if you don't know how to rocket jump with the Classic Gun blue shot."
+        ],
+        "default": true
+      },
+      "enable_traps": {
+        "type": "Toggle",
+        "display_name": "Enable Traps",
+        "description": [
+          "Traps include:",
+          "- Completing a challenge mode version of a level (Fragile, Pacifist, Beacons, Pathfinder). You can choose any level for this (even ones you have already completed).",
+          "- Listen to Demi monologue. Press 1 on your keyboard to open the journal, then double click one of the text logs. You can continue playing while Demi talks, but it will be hard to hear the music >:)"
+        ],
+        "default": true
+      }
+    }
+}

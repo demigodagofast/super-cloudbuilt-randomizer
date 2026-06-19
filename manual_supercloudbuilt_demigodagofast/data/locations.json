@@ -1,0 +1,478 @@
+[
+  {
+    "name": "Jetpack location in Initial Entry",
+    "category": [
+      "Walk in the Park"
+    ]
+  },
+  {
+    "name": "Jetpack location in The Beyond",
+    "requires": "|Grenades|",
+    "category": [
+      "The Storm and The Beyond",
+      "Fog Core"
+    ]
+  },
+  {
+    "name": "Yellow and Green Gun location in Initial Entry",
+    "category": [
+      "Walk in the Park"
+    ]
+  },
+  {
+    "name": "Grenades location in Initial Entry",
+    "requires": "|Air Jump| or |Wallrun| or (|Dash| and |Supercharge Upgrade|)",
+    "category": [
+      "Walk in the Park"
+    ]
+  },
+  {
+    "name": "Classic Gun locker",
+    "requires": "|Day branch ending reached| or |Dawn branch ending reached| or |Storm branch ending reached| or |Night branch ending reached|",
+    "category": [
+      "Hub World"
+    ]
+  },
+  {
+    "name": "Another Way complete",
+    "requires": "|Bearings complete|",
+    "category": [
+      "Fog Branch"
+    ]
+  },
+  {
+    "name": "The Call complete",
+    "category": [
+      "Ranked Mode"
+    ]
+  },
+  {
+    "name": "Initial Entry complete",
+    "requires": "|Air Jump| or (|Dash| and |Supercharge Upgrade|)",
+    "category": [
+      "Walk in the Park"
+    ]
+  },
+  {
+    "name": "Beyond the Walls complete",
+    "requires": "|Air Jump| or |Wallrun| or |Dash| or |Grenades| or |Blue Classic Gun|",
+    "category": [
+      "Walk in the Park"
+    ]
+  },
+  {
+    "name": "Regrowth complete",
+    "requires": "|Air Jump| or |Wallrun| or |Dash|",
+    "category": [
+      "Fog Branch"
+    ]
+  },
+  {
+    "name": "Questions complete",
+    "requires": "|Air Jump| or |Wallrun| or |Dash|",
+    "category": [
+      "Walk in the Park"
+    ]
+  },
+  {
+    "name": "Reflection complete",
+    "requires": "|Air Jump| or |Wallrun| or |Dash| or |Grenades|",
+    "category": [
+      "Walk in the Park"
+    ]
+  },
+  {
+    "name": "Remembrance complete",
+    "requires": "|Air Jump| or |Wallrun| or |Dash| or |Grenades|",
+    "category": [
+      "Fog Branch"
+    ]
+  },
+  {
+    "name": "The Meaning complete",
+    "requires": "|Air Jump| or |Wallrun| or |Dash|",
+    "category": [
+      "Walk in the Park"
+    ]
+  },
+  {
+    "name": "Mistakes complete",
+    "requires": "|Air Jump| or |Wallrun| or |Dash|",
+    "category": [
+      "Fog Branch"
+    ]
+  },
+  {
+    "name": "Implications complete",
+    "requires": "|Air Jump| or |Wallrun| or |Dash|",
+    "category": [
+      "Fog Branch"
+    ]
+  },
+  {
+    "name": "Bearings complete",
+    "requires": "|Wallrun| or (|Air Jump| and |Supercharge Upgrade|)",
+    "category": [
+      "Fog Branch"
+    ]
+  },
+  {
+    "name": "Recovery complete",
+    "requires": "|Air Jump| or |Wallrun| or |Dash| or |Grenades| or |Blue Classic Gun|",
+    "category": [
+      "Dawn Branch"
+    ]
+  },
+  {
+    "name": "Technology complete",
+    "requires": "|Air Jump| or |Wallrun| or |Dash| or |Grenades| or |Yellow SCB Gun| or |Green SCB Gun| or |Blue Classic Gun| or |Yellow Classic Gun| or |Green Classic Gun|",
+    "category": [
+      "Storm Branch"
+    ]
+  },
+  {
+    "name": "Remix II complete",
+    "requires": "|Air Jump| or |Wallrun| or (|Dash| and |Supercharge Upgrade|)",
+    "category": [
+      "Remix Levels",
+      "Ranked Mode"
+    ]
+  },
+  {
+    "name": "Strength complete",
+    "requires": "|Air Jump| or |Wallrun| or |Dash| or |Grenades| or |Blue Classic Gun|",
+    "category": [
+      "Dawn Branch"
+    ]
+  },
+  {
+    "name": "Fear complete",
+    "requires": "|Air Jump| or |Wallrun| or |Dash| or |Grenades| or |Blue Classic Gun|",
+    "category": [
+      "Night Branch"
+    ]
+  },
+  {
+    "name": "Escape complete",
+    "requires": "|Air Jump| or |Wallrun| or |Dash| or |Grenades| or |Blue Classic Gun|",
+    "category": [
+      "Day Branch"
+    ]
+  },
+  {
+    "name": "Best Intentions complete",
+    "requires": "|Air Jump| or |Wallrun| or (|Dash| and |Supercharge Upgrade|)",
+    "category": [
+      "Day Branch"
+    ]
+  },
+  {
+    "name": "Remix I complete",
+    "requires": "|Air Jump| or (|Wallrun| and (|Yellow SCB Gun| or |Green SCB Gun| or |Grenades|)) or |Dash|",
+    "category": [
+      "Remix Levels",
+      "Ranked Mode"
+    ]
+  },
+  {
+    "name": "In the Dark complete",
+    "requires": "|Air Jump| or |Dash|",
+    "category": [
+      "Night Branch"
+    ]
+  },
+  {
+    "name": "Clarity complete",
+    "requires": "|Wallrun| or ((|Air Jump| or |Dash|) and |Supercharge Upgrade|)",
+    "category": [
+      "Storm Branch"
+    ]
+  },
+  {
+    "name": "My Source complete",
+    "requires": "|Wallrun| or ((|Air Jump| or |Dash|) and |Supercharge Upgrade|)",
+    "category": [
+      "Dawn Branch"
+    ]
+  },
+  {
+    "name": "Stability complete",
+    "requires": "|Air Jump| or ((|Wallrun| or |Supercharge Upgrade|) and |Dash|)",
+    "category": [
+      "Day Branch"
+    ]
+  },
+  {
+    "name": "Remix III complete",
+    "requires": "|Dash| and ((|Air Jump| and (|Yellow SCB Gun| or |Green SCB Gun|)) or |Wallrun| or |Supercharge Upgrade|)",
+    "category": [
+      "Remix Levels",
+      "Ranked Mode"
+    ]
+  },
+  {
+    "name": "What's to Come complete",
+    "requires": "|Air Jump| or |Wallrun| or |Dash|",
+    "category": [
+      "Storm Branch"
+    ]
+  },
+  {
+    "name": "My Inspiration complete",
+    "requires": "(|Air Jump| or |Wallrun| or |Dash|) and (|Green SCB Gun| or |Blue Classic Gun|)",
+    "category": [
+      "Dawn Branch"
+    ]
+  },
+  {
+    "name": "Acceptance complete",
+    "requires": "|Air Jump| or |Grenades| or ((|Wallrun| or |Dash|) and (|Yellow SCB Gun| or |Green SCB Gun| or |Yellow Classic Gun| or |Green Classic Gun| or |Blue Classic Gun|))",
+    "category": [
+      "Day Branch"
+    ]
+  },
+  {
+    "name": "Mirage complete",
+    "requires": "|Dash|",
+    "category": [
+      "Night Branch"
+    ]
+  },
+  {
+    "name": "My Regrets complete",
+    "requires": "((|Wallrun| and |Dash|) or |Air Jump|) and (|Yellow SCB Gun| or |Green SCB Gun| or |Grenades| or |Yellow Classic Gun| or |Green Classic Gun| or |Blue Classic Gun|)",
+    "category": [
+      "Night Branch"
+    ]
+  },
+  {
+    "name": "Redeployment complete",
+    "requires": "|Wallrun| or (|Supercharge Upgrade| and (|Air Jump| or (|Dash| and (|Yellow SCB Gun| or |Green SCB Gun| or |Grenades| or |Yellow Classic Gun| or |Green Classic Gun| or |Blue Classic Gun|))))",
+    "category": [
+      "Storm Branch"
+    ]
+  },
+  {
+    "name": "Desperation complete",
+    "requires": "(((|Wallrun| and |Dash|) or (|Air Jump| and |Supercharge Upgrade|)) and (|Yellow SCB Gun| or |Yellow Classic Gun|)) or (|Air Jump| and |Wallrun| and |Dash| and |Supercharge Upgrade|)",
+    "category": [
+      "Defiance"
+    ]
+  },
+  {
+    "name": "Nostalgia complete",
+    "requires": "((|Air Jump| and (|Wallrun| or |Supercharge Upgrade|)) and (|Yellow SCB Gun| or |Yellow Classic Gun|)) or (|Air Jump| and |Wallrun| and |Dash| and |Supercharge Upgrade|)",
+    "category": [
+      "Defiance"
+    ]
+  },
+  {
+    "name": "Desire complete",
+    "requires": "|Air Jump| and |Wallrun| and |Dash| and (|Supercharge Upgrade| or (|Yellow SCB Gun| and |Green SCB Gun| and |Grenades|) or (|Yellow Classic Gun| and |Green Classic Gun| and |Blue Classic Gun|))",
+    "category": [
+      "Defiance"
+    ]
+  },
+  {
+    "name": "Expectations complete",
+    "requires": "|Air Jump| and |Wallrun| and |Dash| and (|Supercharge Upgrade| or |Grenades| or |Blue Classic Gun|)",
+    "category": [
+      "Defiance"
+    ]
+  },
+  {
+    "name": "My Fall complete",
+    "requires": "|Grenades| and (|Wallrun| or |Supercharge Upgrade|) and |Air Jump|",
+    "category": [
+      "Kalifen Levels",
+      "Ranked Mode"
+    ]
+  },
+  {
+    "name": "Chains complete",
+    "requires": "|Red Key| and |Green Key| and |Violet Key| and |Magenta Key| and (|Air Jump| and |Wallrun| and |Dash| and (|Supercharge Upgrade| or (|Yellow SCB Gun| and |Green SCB Gun| and |Grenades|) or (|Yellow Classic Gun| and |Green Classic Gun| and |Blue Classic Gun|)))",
+    "category": [
+      "Defiance"
+    ],
+    "victory": true
+  },
+  {
+    "name": "The Way Around complete",
+    "requires": "|Air Jump| and |Wallrun| and |Dash| and (|Yellow SCB Gun| or |Supercharge Upgrade|)",
+    "category": [
+      "Kalifen Levels",
+      "Ranked Mode"
+    ]
+  },
+  {
+    "name": "Pulse Core complete",
+    "requires": "|Air Jump| and |Wallrun| and |Dash| and |Yellow SCB Gun| and |Green SCB Gun| and |Grenades|",
+    "category": [
+      "Kalifen Levels",
+      "Ranked Mode"
+    ]
+  },
+  {
+    "name": "The Storm complete",
+    "requires": "|Air Jump| and |Wallrun| and |Dash| and ((|Yellow SCB Gun| and |Green SCB Gun| and |Grenades|) or (|Yellow Classic Gun| and |Green Classic Gun| and |Blue Classic Gun|))",
+    "category": [
+      "The Storm and The Beyond",
+      "Fog Core"
+    ]
+  },
+  {
+    "name": "The Night complete",
+    "requires": "|Air Jump| and |Wallrun| and |Dash| and ((|Yellow SCB Gun| and |Green SCB Gun| and |Grenades|) or (|Yellow Classic Gun| and |Green Classic Gun| and |Blue Classic Gun|))",
+    "category": [
+      "The Night",
+      "Fog Core"
+    ]
+  },
+  {
+    "name": "The Beyond complete",
+    "requires": "|Air Jump| and |Wallrun| and |Dash| and |Grenades|",
+    "category": [
+      "The Storm and The Beyond",
+      "Fog Core"
+    ]
+  }, 
+  {
+    "name": "Castle in the Sky",
+    "requires": "|Air Jump| and (|Wallrun| or |Dash| or |Supercharge Upgrade|)",
+    "category": [
+      "Fog Branch",
+      "Easter Egg"
+    ]
+  },
+  {
+    "name": "Vertigo",
+    "requires": "(|Air Jump| and (|Grenades| or |Supercharge Upgrade|)) or |Wallrun| or (|Dash| and |Supercharge Upgrade|)",
+    "category": [
+      "Day Branch",
+      "Easter Egg"
+    ]
+  },
+  {
+    "name": "My Favourite Spot",
+    "category": [
+      "Day Branch",
+      "Easter Egg"
+    ]
+  },
+  {
+    "name": "Flower in My Inspiration",
+    "requires": "|Air Jump| or |Wallrun| or (|Dash| and (|Yellow SCB Gun| or |Green SCB Gun| or |Grenades| or |Yellow Classic Gun| or |Green Classic Gun| or |Blue Classic Gun|)) or |Grenades| or |Blue Classic Gun|",
+    "category": [
+      "Dawn Branch",
+      "Easter Egg"
+    ]
+  },
+  {
+    "name": "Flower in My Regrets",
+    "requires": "|Air Jump| or |Dash|",
+    "category": [
+      "Night Branch",
+      "Easter Egg"
+    ]
+  },
+  {
+    "name": "Flower in Escape",
+    "category": [
+      "Day Branch",
+      "Easter Egg"
+    ]
+  },
+  {
+    "name": "Flower in What's to Come",
+    "requires": "|Air Jump| and (|Dash| or |Grenades| or |Supercharge Upgrade|)",
+    "category": [
+      "Storm Branch",
+      "Easter Egg"
+    ]
+  },
+  {
+    "name": "Welcome to Rome",
+    "category": [
+      "Ranked Mode",
+      "Easter Egg"
+    ]
+  },
+  {
+    "name": "Halfpipe 360 in the Playground",
+    "requires": "|Dash|",
+    "category": [
+      "Walk in the Park"
+    ]
+  },
+  {
+    "name": "Locker in the Playground",
+    "category": [
+      "Walk in the Park"
+    ]
+  },
+  {
+    "name": "Climbed to the Top of the Playground",
+    "category": [
+      "Walk in the Park"
+    ]
+  },
+  {
+    "name": "HI FRIEND!",
+    "requires": "|Air Jump| and (|Wallrun| or |Supercharge Upgrade|)",
+    "category": [
+      "Day Branch",
+      "Easter Egg"
+    ]
+  },
+  {
+    "name": "Robot and Plant Share a Drink",
+    "requires": "(|Air Jump| and (|Grenades| or |Supercharge Upgrade|)) or |Wallrun| or (|Dash| and |Supercharge Upgrade|)",
+    "category": [
+      "Remix Levels",
+      "Ranked Mode",
+      "Easter Egg"
+    ]
+  },
+  {
+    "name": "Visited Coilworks",
+    "category": [
+      "Ranked Mode",
+      "Easter Egg"
+    ]
+  },
+  {
+    "name": "Visited R/CLOUDBUILT",
+    "category": [
+      "Ranked Mode",
+      "Easter Egg",
+      "Kalifen Levels"
+    ]
+  },
+  {
+    "name": "RIP Directionless",
+    "requires": "|Air Jump| and |Wallrun| and |Dash| and |Yellow SCB Gun| and |Green SCB Gun| and |Grenades|",
+    "category": [
+      "Ranked Mode",
+      "Easter Egg",
+      "Kalifen Levels"
+    ]
+  },
+  {
+    "name": "Bonfire in The Beyond",
+    "requires": "|Air Jump| and |Wallrun| and |Dash| and |Grenades|",
+    "category": [
+      "The Storm and The Beyond",
+      "Fog Core",
+      "Easter Egg"
+    ]
+  },
+  {
+    "name": "Is that Regrowth? In The Beyond?",
+    "requires": "|Air Jump| and |Wallrun| and |Dash| and |Grenades|",
+    "category": [
+      "The Storm and The Beyond",
+      "Fog Core",
+      "Easter Egg"
+    ]
+  }
+]
