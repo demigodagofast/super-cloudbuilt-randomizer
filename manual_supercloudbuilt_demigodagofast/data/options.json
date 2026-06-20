@@ -90,7 +90,8 @@
         "description": [
           "Traps include:",
           "- Completing a challenge mode version of a level (Fragile, Pacifist, Beacons, Pathfinder). You can choose any level for this (even ones you have already completed).",
-          "- Listen to Demi monologue. Press 1 on your keyboard to open the journal, then double click one of the text logs. You can continue playing while Demi talks, but it will be hard to hear the music >:)"
+          "- Listen to Demi monologue. Press 1 on your keyboard to open the journal, then double click one of the text logs. You can continue playing while Demi talks, but it will be hard to hear the music >:)",
+          "- Temporary debuffs (Fragile, Pacifist, limited energy, Supercharge Upgrade disabled)."
         ],
         "default": true
       }

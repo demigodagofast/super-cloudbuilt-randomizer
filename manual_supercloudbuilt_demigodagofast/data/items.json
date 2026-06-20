@@ -1,166 +1,332 @@
-[
-  {
-    "name": "Air Jump",
-    "count": 1,
-    "category": [
-      "Equipment"
-    ],
-    "progression": true
-  },
-  {
-    "name": "Wallrun",
-    "count": 1,
-    "category": [
-      "Equipment"
-    ],
-    "progression": true
-  },
-  {
-    "name": "Dash",
-    "count": 1,
-    "category": [
-      "Equipment"
-    ],
-    "progression": true
-  },
-  {
-    "name": "Supercharge Upgrade",
-    "count": 1,
-    "category": [
-      "Equipment",
-      "Supercharge"
-    ],
-    "progression": true
-  },
-  {
-    "name": "Yellow SCB Gun",
-    "count": 1,
-    "category": [
-      "Equipment"
-    ],
-    "progression": true
-  },
-  {
-    "name": "Green SCB Gun",
-    "count": 1,
-    "category": [
-      "Equipment"
-    ],
-    "progression": true
-  },
-  {
-    "name": "Grenades",
-    "count": 1,
-    "category": [
-      "Equipment"
-    ],
-    "progression": true
-  },
-  {
-    "name": "Yellow Classic Gun",
-    "count": 1,
-    "category": [
-      "Equipment",
-      "Classic Gun"
-    ],
-    "progression": true
-  },
-  {
-    "name": "Green Classic Gun",
-    "count": 1,
-    "category": [
-      "Equipment",
-      "Classic Gun"
-    ],
-    "progression": true
-  },
-  {
-    "name": "Blue Classic Gun",
-    "count": 1,
-    "category": [
-      "Equipment",
-      "Classic Gun"
-    ],
-    "progression": true
-  },
-  {
-    "name": "Fog Core",
-    "count": 1,
-    "category": [
-      "Equipment"
-    ],
-    "filler": true
-  },
-  {
-    "name": "Red Key",
-    "count": 1,
-    "category": [
-      "Keys"
-    ],
-    "progression": true
-  },
-  {
-    "name": "Green Key",
-    "count": 1,
-    "category": [
-      "Keys"
-    ],
-    "progression": true
-  },
-  {
-    "name": "Violet Key",
-    "count": 1,
-    "category": [
-      "Keys"
-    ],
-    "progression": true
-  },
-  {
-    "name": "Magenta Key",
-    "count": 1,
-    "category": [
-      "Keys"
-    ],
-    "progression": true
-  },
-  {
-    "name": "Complete a Fragile Challenge",
-    "count": 1,
-    "category": [
-      "Traps"
-    ],
-    "trap": true
-  },
-  {
-    "name": "Complete a Pacifist Challenge",
-    "count": 1,
-    "category": [
-      "Traps"
-    ],
-    "trap": true
-  },
-  {
-    "name": "Complete a Beacons Challenge",
-    "count": 1,
-    "category": [
-      "Traps"
-    ],
-    "trap": true
-  },
-  {
-    "name": "Complete a Pathfinder Challenge with a C Rank or Better",
-    "count": 1,
-    "category": [
-      "Traps"
-    ],
-    "trap": true
-  },
-  {
-    "name": "Listen to a Demi Monologue",
-    "count": 1,
-    "category": [
-      "Traps"
-    ],
-    "trap": true
-  }
-]
+{
+  "_comment": [
+    "NOTE: Classifying consumables and traps as 'filler' because:",
+    "1. If consumables/life caps are 'useful', then they will be prioritized",
+    "   over filler/traps when filling extra checks, preventing traps",
+    "   from generating in the item pool (since there are more consumables",
+    "   + life caps than extra checks).",
+    "2. The 'filler_traps' slider in the Options Creator only overwrites",
+    "   generic filler, so will never overwrite the consumables/life caps",
+    "   specified here. Hacky workaround is to make the traps filler",
+    "   so they are drawn from the same item pool as consumables/life caps."
+  ],
+  "data": [
+    {
+      "name": "Air Jump",
+      "count": 1,
+      "category": [
+        "Equipment"
+      ],
+      "progression": true
+    },
+    {
+      "name": "Wallrun",
+      "count": 1,
+      "category": [
+        "Equipment"
+      ],
+      "progression": true
+    },
+    {
+      "name": "Dash",
+      "count": 1,
+      "category": [
+        "Equipment"
+      ],
+      "progression": true
+    },
+    {
+      "name": "Supercharge Upgrade",
+      "count": 1,
+      "category": [
+        "Equipment",
+        "Supercharge"
+      ],
+      "progression": true
+    },
+    {
+      "name": "Yellow SCB Gun",
+      "count": 1,
+      "category": [
+        "Equipment"
+      ],
+      "progression": true
+    },
+    {
+      "name": "Green SCB Gun",
+      "count": 1,
+      "category": [
+        "Equipment"
+      ],
+      "progression": true
+    },
+    {
+      "name": "Grenades",
+      "count": 1,
+      "category": [
+        "Equipment"
+      ],
+      "progression": true
+    },
+    {
+      "name": "Yellow Classic Gun",
+      "count": 1,
+      "category": [
+        "Equipment",
+        "Classic Gun"
+      ],
+      "progression": true
+    },
+    {
+      "name": "Green Classic Gun",
+      "count": 1,
+      "category": [
+        "Equipment",
+        "Classic Gun"
+      ],
+      "progression": true
+    },
+    {
+      "name": "Blue Classic Gun",
+      "count": 1,
+      "category": [
+        "Equipment",
+        "Classic Gun"
+      ],
+      "progression": true
+    },
+    {
+      "name": "Fog Core",
+      "count": 1,
+      "category": [
+        "Equipment"
+      ],
+      "filler": true
+    },
+    {
+      "name": "Red Key",
+      "count": 1,
+      "category": [
+        "Keys"
+      ],
+      "progression": true
+    },
+    {
+      "name": "Green Key",
+      "count": 1,
+      "category": [
+        "Keys"
+      ],
+      "progression": true
+    },
+    {
+      "name": "Violet Key",
+      "count": 1,
+      "category": [
+        "Keys"
+      ],
+      "progression": true
+    },
+    {
+      "name": "Magenta Key",
+      "count": 1,
+      "category": [
+        "Keys"
+      ],
+      "progression": true
+    },
+    {
+      "name": "Complete a Fragile Challenge",
+      "count": 1,
+      "category": [
+        "Traps"
+      ],
+      "filler": true
+    },
+    {
+      "name": "Complete a Pacifist Challenge",
+      "count": 1,
+      "category": [
+        "Traps"
+      ],
+      "filler": true
+    },
+    {
+      "name": "Complete a Beacons Challenge",
+      "count": 1,
+      "category": [
+        "Traps"
+      ],
+      "filler": true
+    },
+    {
+      "name": "Complete a Pathfinder Challenge with a C Rank or Better",
+      "count": 1,
+      "category": [
+        "Traps"
+      ],
+      "filler": true
+    },
+    {
+      "name": "Listen to a Demi Monologue",
+      "count": 1,
+      "category": [
+        "Traps"
+      ],
+      "filler": true
+    },
+    {
+      "name": "Fragile for 5 Minutes",
+      "count": 1,
+      "category": [
+        "Traps"
+      ],
+      "filler": true
+    },
+    {
+      "name": "Pacifist for 5 Minutes",
+      "count": 1,
+      "category": [
+        "Traps"
+      ],
+      "filler": true
+    },
+    {
+      "name": "33% Energy for 5 Minutes",
+      "count": 1,
+      "category": [
+        "Traps"
+      ],
+      "filler": true
+    },
+    {
+      "name": "0% Energy for 5 Minutes",
+      "count": 1,
+      "category": [
+        "Traps"
+      ],
+      "filler": true
+    },
+    {
+      "name": "50% Energy for 5 Minutes",
+      "count": 1,
+      "category": [
+        "Traps"
+      ],
+      "filler": true
+    },
+    {
+      "name": "Supercharge Upgrade Disabled for 5 Minutes",
+      "count": 1,
+      "category": [
+        "Traps",
+        "Supercharge"
+      ],
+      "filler": true
+    },
+    {
+      "name": "Checkpoint Pack",
+      "count": 5,
+      "category": [
+        "Consumables"
+      ],
+      "filler": true
+    },
+    {
+      "name": "Extra Life Pack",
+      "count": 5,
+      "category": [
+        "Consumables"
+      ],
+      "filler": true
+    },
+    {
+      "name": "Health Booster",
+      "count": 5,
+      "category": [
+        "Consumables"
+      ],
+      "filler": true
+    },
+    {
+      "name": "Energy Tank",
+      "count": 5,
+      "category": [
+        "Consumables"
+      ],
+      "filler": true
+    },
+    {
+      "name": "Regeneration Core",
+      "count": 5,
+      "category": [
+        "Consumables"
+      ],
+      "filler": true
+    },
+    {
+      "name": "Energy Charger",
+      "count": 5,
+      "category": [
+        "Consumables"
+      ],
+      "filler": true
+    },
+    {
+      "name": "Armour Boost",
+      "count": 5,
+      "category": [
+        "Consumables"
+      ],
+      "filler": true
+    },
+    {
+      "name": "Optical Camo",
+      "count": 5,
+      "category": [
+        "Consumables"
+      ],
+      "filler": true
+    },
+    {
+      "name": "Super Grip",
+      "count": 5,
+      "category": [
+        "Consumables"
+      ],
+      "filler": true
+    },
+    {
+      "name": "Focus Trigger",
+      "count": 5,
+      "category": [
+        "Consumables"
+      ],
+      "filler": true
+    },
+    {
+      "name": "Shield Gun",
+      "count": 5,
+      "category": [
+        "Consumables"
+      ],
+      "filler": true
+    },
+    {
+      "name": "Super Weapon",
+      "count": 5,
+      "category": [
+        "Consumables"
+      ],
+      "filler": true
+    },
+    {
+      "name": "Life Cap",
+      "count": 60,
+      "category": [
+        "Life Cap"
+      ],
+      "filler": true
+    }
+  ]
+}
