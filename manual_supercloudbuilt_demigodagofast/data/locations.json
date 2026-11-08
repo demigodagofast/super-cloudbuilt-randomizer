@@ -48,7 +48,7 @@
   },
   {
     "name": "Initial Entry complete",
-    "requires": "|Air Jump| or (|Dash| and |Supercharge Upgrade|)",
+    "requires": "|Air Jump| or (|Dash| and |Supercharge Upgrade|) or (|Wallrun| and |Grenades|)",
     "category": [
       "Walk in the Park"
     ]
@@ -338,7 +338,7 @@
   }, 
   {
     "name": "Castle in the Sky",
-    "requires": "|Air Jump| and (|Wallrun| or |Dash| or |Supercharge Upgrade|)",
+    "requires": "|Air Jump| and ((|Wallrun| and |Grenades|) or |Dash| or |Supercharge Upgrade|)",
     "category": [
       "Fog Branch",
       "Easter Egg"
@@ -369,7 +369,7 @@
   },
   {
     "name": "Flower in My Regrets",
-    "requires": "|Air Jump| or |Dash|",
+    "requires": "|Air Jump| or |Dash| or (|Wallrun| and |Grenades|)",
     "category": [
       "Night Branch",
       "Easter Egg"
