@@ -104,7 +104,7 @@
   },
   {
     "name": "Implications complete",
-    "requires": "|Air Jump| or |Wallrun| or |Dash|",
+    "requires": "|Air Jump| or |Dash|",
     "category": [
       "Fog Branch"
     ]
